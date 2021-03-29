@@ -47,5 +47,6 @@
         "psr-0": {
             "Horde_Text_Filter": "lib/"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
